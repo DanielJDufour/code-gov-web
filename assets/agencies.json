@@ -1,7 +1,7 @@
 {
   "agencies": {
-    "AID": {
-      "id": "AID",
+    "USAID": {
+      "id": "USAID",
       "name": "Agency for International Development"
     },
     "CFPB": {
@@ -56,8 +56,8 @@
       "id": "DOT",
       "name": "Department of Transportation"
     },
-    "TRE": {
-      "id": "TRE",
+    "TREASURY": {
+      "id": "TREASURY",
       "name": "Department of the Treasury"
     },
     "VA": {
